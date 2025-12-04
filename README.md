@@ -1,1 +1,1 @@
-# lr2-django
+# LR2_Django
